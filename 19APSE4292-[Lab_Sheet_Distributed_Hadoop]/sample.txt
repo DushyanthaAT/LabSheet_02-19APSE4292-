@@ -1,0 +1,1 @@
+It seems that when running the command docker exec -it namenode hdfs dfs -ls /output, there was no output returned, which means either the /output directory does not exist yet, or the job failed before producing output.
