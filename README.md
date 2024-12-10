@@ -1,4 +1,4 @@
-![8](https://github.com/user-attachments/assets/e65f4058-5484-4dc5-a288-72686215493c)# LabSheet_02-19APSE4292-
+# LabSheet_02-19APSE4292-
 
 # Lab Sheet: Distributed Hadoop Application
 
